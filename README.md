@@ -64,7 +64,7 @@ Down
 
 -	You have to do it without getting caught by the giant shoppers by pressing the down button to crouch.
 
--	The level the player has to traverse is a shelf with items that you don’t currently need.
+-	The level the player has to traverse is a shelf with items that you don’t currently need which you can push away.
 
 -	Once the item is collected, the player must return to the door. They still need to be careful with the giants.
 
