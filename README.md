@@ -60,4 +60,10 @@ Down
 
 # Gameplay
 
+-	Navigate through the shelf and go to the top of the shelf to get the set objective item that you need to get for that level.
 
+-	You have to do it without getting caught by the giant shoppers by pressing the down button to crouch.
+
+-	The level the player has to traverse is a shelf with items that you don’t currently need.
+
+-	Once the item is collected, the player must return to the door. They still need to be careful with the giants.
