@@ -41,7 +41,7 @@ Game Over
 
 ![GameOver](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/6feace06-3a27-440b-b8a0-a2dd8d788407)
 
-###Top-Down
+### Top-Down
 Left
 
 ![Top-Down Left](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/8aea1310-1840-43e5-a146-b21813999c3c)
@@ -67,3 +67,6 @@ Down
 -	The level the player has to traverse is a shelf with items that you don’t currently need.
 
 -	Once the item is collected, the player must return to the door. They still need to be careful with the giants.
+
+![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/ee0018fc-57d3-4659-9b7e-85257fbee899)
+
