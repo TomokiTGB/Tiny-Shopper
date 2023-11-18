@@ -1,11 +1,14 @@
 # Tiny Shopper
 My First Unity Game
+
+## UI Mockups
+### Main Menu
 ![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/97f3a830-ac68-4c84-9bdc-cef2a055b704)
 
 ### Options
-Controls
 ![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/e7163e81-8846-4fa6-96c3-ffcbbf0f84d2)
- 
+
+## In Game
 ### Room inside the Store
 ![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/1d1a2cf0-29d1-4372-9d81-7b3ed3ecd518)
 
@@ -54,5 +57,7 @@ Right
 Down
 
 ![Top-Down Down](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/d787e676-9ede-40d7-a469-0813a462a685)
+
+# Gameplay
 
 
