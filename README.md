@@ -68,5 +68,5 @@ Down
 
 -	Once the item is collected, the player must return to the door. They still need to be careful with the giants.
 
-![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/ee0018fc-57d3-4659-9b7e-85257fbee899)
+![image](https://github.com/TomokiTGB/Tiny-Shopper/assets/151269787/d36a3f7f-6e36-4051-b08f-f9208f28d317)
 
